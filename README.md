@@ -1,6 +1,6 @@
 ---
 title: Logo Generator
-emoji: 
+emoji: "🌳"
 colorFrom: purple
 colorTo: pink
 sdk: gradio
