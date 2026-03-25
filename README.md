@@ -3,9 +3,7 @@ title: Logo Generator
 emoji: "🌳"
 colorFrom: purple
 colorTo: pink
-sdk: gradio
-sdk_version: 4.44.0
-app_file: app.py
+sdk: docker
 pinned: false
 ---
 # Create/update README with HF metadata
