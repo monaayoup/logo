@@ -1,3 +1,15 @@
+---
+title: Logo Generator
+emoji: ??
+colorFrom: purple
+colorTo: pink
+sdk: gradio
+sdk_version: 4.44.0
+app_file: app.py
+pinned: false
+---
+# Create/update README with HF metadata
+
 # TalentTree Logo Generator 🎨
 
 An AI-powered logo generator that uses a conversational chatbot to collect brand information and automatically generates professional logos using Stable Diffusion XL.
